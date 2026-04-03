@@ -42,7 +42,7 @@ License](https://creativecommons.org/licenses/by/4.0/).  In short, you are
 free to use OSL in your own applications, whether they are free or
 commercial, open or proprietary, as well as to modify the OSL code and
 documentation as you desire, provided that you retain the original copyright
-notices as described in the license.
+notices as described in the license..
 
 
 How OSL is different
