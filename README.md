@@ -33,7 +33,7 @@ OSL is robust and production-proven, and has been used in films as diverse
 as "The Amazing Spider-Man," "Hotel Transylvania," "Edge of Tomorrow", "Ant
 Man", "Finding Dory," and many more. OSL support is in most leading
 renderers used for high-end VFX and animation work. For a full list of films
-and products, see the [filmography](#where-osl-has-been-used).
+and products, see the [filmography](#where-osl-has-been-used)..
 
 The OSL code is distributed under the
 ["New/3-clause BSD" license](https://github.com/AcademySoftwareFoundation/OpenShadingLanguage/LICENSE.md),
